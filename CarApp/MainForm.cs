@@ -49,6 +49,7 @@ namespace CarApp
             db.SaveChanges();
 
             MessageBox.Show("Новый объект добавлен");
+            MessageBox.Show("Новый объект добавлен");
         }
 
         // кнопка редактирования объекта Car на главной форме
